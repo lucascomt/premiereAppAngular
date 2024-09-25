@@ -1,0 +1,19 @@
+h1, h2, p {
+    color: #020355;
+    text-align: center;
+}
+h1 {
+    font-size: 3em;
+
+}
+h2 {
+    font-size: 2em;
+    color: #03057c;
+}
+p {
+    font-size: 1.5em;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
